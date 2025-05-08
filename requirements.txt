@@ -1,0 +1,4 @@
+PyQt5
+mediapipe==0.10.20
+numpy
+# protobuf will be handled by mediapipe's dependencies
